@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I’m Siddharth 👨‍💻<br><br>🔭 Currently working on a full-stack project using Spring Boot, React, Docker, and MySQL.<br>🤝 Looking to collaborate on backend-heavy full-stack projects and open-source contributions.<br>🌱 Currently learning Spring Security, JWT, system design, and scalable architectures.<br>💬 Ask me about Java, APIs, databases, Docker, and backend optimization.<br>⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
+👋 Hey there, I’m Siddharth 👨‍💻<br><br>🔭 Currently working on a full-stack project using Spring Boot, Angular, React, Docker, and MySQL.<br>🤝 Looking to collaborate on backend-heavy full-stack projects and open-source contributions.<br>🌱 Currently learning Spring Security, JWT, system design, and scalable architectures.<br>💬 Ask me about Java, APIs, databases, Docker, and backend optimization.<br>⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
 
 
 ## 🌐 Socials:
