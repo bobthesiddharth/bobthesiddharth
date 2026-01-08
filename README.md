@@ -1,46 +1,26 @@
+# 💫 About Me:
+👋 Hey there, I’m Siddharth 👨‍💻<br><br>🔭 Currently working on a full-stack project using Spring Boot, React, Docker, and MySQL.<br>🤝 Looking to collaborate on backend-heavy full-stack projects and open-source contributions.<br>🌱 Currently learning Spring Security, JWT, system design, and scalable architectures.<br>💬 Ask me about Java, APIs, databases, Docker, and backend optimization.<br>⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
 
-# Siddharth-Nayak (bobthesiddharth)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bobthesiddharth/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bobthesiddharth/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/bobthesiddharth) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@SiddharthFlautist) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/bobthesiddharth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bobthesiddharth@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bobthesiddharth&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bobthesiddharth&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bobthesiddharth&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 👋 Hi, I'm Siddharth Nayak 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bobthesiddharth&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-🎓 Computer Science Student at KIIT University, BBSR | 💻 Aspiring Full Stack Developer  
-🌱 Currently learning Git, GitHub, Open Source & React  
-🚀 Passionate about building real-world projects & contributing to open source
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-
-## 🔧 Tech Stack
-
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Springboot
-- ⚛️ React JS | Node.js (Basics)
-- 🐍 Python | Java (Academic)
-- 💾 MySQL
-- 🛠️ Git & GitHub
-
----
-
-## 📌 Notable Projects
-
-- **College Website** – A responsive, multi-section website using React + Bootstrap  
-- **Basic To-Do List** – Simple app to manage daily tasks
-- **Movie Recommendation System - A machine learning-powered movie recommender built using content-based and collaborative filtering.
-
-### 🚀 Features
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bobthesiddharth&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=bobthesiddharth&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 Achievements & Interests
-
-- ✅ Contributor in the Keploy Fellowship Program  
-- 📚 Learning Android Development & Open Source  
-- 🧠 Interest in Problem Solving, Dev Tools, and UI/UX  
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: bobthesiddharth@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/feed/)  
-- 🌐 [Portfolio](https://bobata.netlify.app)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
